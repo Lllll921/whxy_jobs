@@ -1,0 +1,957 @@
+[
+  {
+    "category": "design",
+    "tags": "应届友好",
+    "city": "上海",
+    "title": "平面设计师",
+    "salary": "7K-9K",
+    "company": "上海形格艺术设计有限公司 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "平面设计或相关专业本科学历",
+      "精通 AI、PS、InDesign 等平面设计软件",
+      "具备品牌VIS设计、平面设计实践经验",
+      "掌握印刷工艺和材质知识",
+      "能将创意概念转化为完整视觉方案",
+      "良好沟通能力和团队协作意识"
+    ],
+    "apply": "站酷平台在线投递，投递后获取HR邮箱",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTE3Mg==.html",
+    "extraTag": "经验不限"
+  },
+  {
+    "category": "design",
+    "tags": "高薪",
+    "city": "成都",
+    "title": "创意视觉设计师（AIGC方向）",
+    "salary": "8K-15K",
+    "company": "成都市恩叁零科技有限公司 | 成都",
+    "recruit": "社招",
+    "requirements": [
+      "精通 Midjourney、Flux、即梦等主流 AIGC 工具",
+      "掌握PS、AI、Figma等设计软件",
+      "3-5年经验，本科学历",
+      "具备动态设计经验和互联网公司背景优先",
+      "有作品集者优先考虑"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTE3Ng==.html",
+    "extraTag": "AI+设计"
+  },
+  {
+    "category": "design",
+    "tags": "高薪",
+    "city": "上海",
+    "title": "AI数字内容创作主管",
+    "salary": "20K-30K",
+    "company": "W的创造者们（上海纳恩文化艺术） | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "精通Midjourney、Runway、ComfyUI等AI工具，具备本地部署能力",
+      "掌握影视后期（Pr/AE）和动画制作软件",
+      "独立完成分镜脚本及视频制作全流程",
+      "本科及以上，影视编导/数字艺术相关专业",
+      "有短剧项目经验、美术或编导复合背景加分"
+    ],
+    "apply": "站酷平台在线投递，投递后获取联系方式",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNDk4MA==.html",
+    "extraTag": "高薪"
+  },
+  {
+    "category": "design",
+    "tags": "应届友好",
+    "city": "上海",
+    "title": "AI设计师",
+    "salary": "10K-15K",
+    "company": "W的创造者们（上海纳恩文化艺术） | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "熟练使用Stable Diffusion、Midjourney、ComfyUI等AIGC工具",
+      "掌握Photoshop、Illustrator等平面软件",
+      "熟练掌握PR/AE/剪映等非线性编辑工具",
+      "本科及以上学历，相关专业优先",
+      "需提供AIGC作品集"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNDk4NA==.html",
+    "extraTag": "经验不限"
+  },
+  {
+    "category": "design",
+    "tags": "",
+    "city": "上海",
+    "title": "品牌设计师",
+    "salary": "7K-12K",
+    "company": "上海博尚包装设计有限公司 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "本科及以上，设计专业背景优先",
+      "1年以上品牌/平面/包装设计经验",
+      "掌握AI软件工具及Mac OS系统",
+      "具备独立完成全案项目的能力",
+      "五险一金，稳定踏实的工作风格"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTAyMA==.html",
+    "extraTag": ""
+  },
+  {
+    "category": "design",
+    "tags": "应届友好",
+    "city": "上海",
+    "title": "博物文创设计师",
+    "salary": "8K-9K",
+    "company": "上海贤莅信息科技有限公司 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "美术功底扎实，审美能力优秀",
+      "熟练使用相关设计软件",
+      "具备独立完成设计任务的能力",
+      "学习能力强，有创新意识",
+      "沟通清晰，良好团队协作精神",
+      "经验和学历不限，热爱传统文化者优先"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTA0NA==.html",
+    "extraTag": "经验不限"
+  },
+  {
+    "category": "design",
+    "tags": "高薪",
+    "city": "北京",
+    "title": "艺术家具设计师",
+    "salary": "10K-20K",
+    "company": "癸罡（北京）文化艺术有限公司 | 北京",
+    "recruit": "社招",
+    "requirements": [
+      "产品设计、工业设计等相关专业本科及以上",
+      "3年以上家具/家居产品完整开发经验",
+      "精通Rhino、3D MAX、ZBrush、Keyshot等软件",
+      "熟悉家具材料与生产工艺",
+      "理解人体工学与结构原理"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTA1Mg==.html",
+    "extraTag": ""
+  },
+  {
+    "category": "design",
+    "tags": "高薪",
+    "city": "北京",
+    "title": "创意设计师",
+    "salary": "17K-30K",
+    "company": "癸罡（北京）文化艺术有限公司 | 北京",
+    "recruit": "社招",
+    "requirements": [
+      "本科及以上，艺术设计/视觉传达相关专业",
+      "3-5年广告/文化艺术公司工作经验",
+      "精通Photoshop、Illustrator等专业软件",
+      "审美出众、创意能力强",
+      "良好的沟通表达与团队合作意识"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTA2MA==.html",
+    "extraTag": "高薪"
+  },
+  {
+    "category": "design",
+    "tags": "高薪",
+    "city": "北京",
+    "title": "三维设计师",
+    "salary": "15K-25K",
+    "company": "北京复合创意文化传播有限公司 | 北京",
+    "recruit": "社招",
+    "requirements": [
+      "熟练使用Cinema 4D进行三维渲染",
+      "美术功底深厚，具备手绘/动画能力优先",
+      "细致认真、富有创新精神",
+      "经验和学历不限"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNDk2OA==.html",
+    "extraTag": ""
+  },
+  {
+    "category": "design",
+    "tags": "",
+    "city": "深圳",
+    "title": "UI设计师（3C类）",
+    "salary": "7K-11K",
+    "company": "深圳市达利设计有限公司 | 深圳",
+    "recruit": "社招",
+    "requirements": [
+      "设计相关专业，对UI及视觉有深刻理解",
+      "掌握Photoshop、Illustrator、Sketch、AE",
+      "理解PC端和移动端设计规范",
+      "具备产品思维和交互能力",
+      "专科及以上学历"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTA0MA==.html",
+    "extraTag": ""
+  },
+  {
+    "category": "design",
+    "tags": "应届友好",
+    "city": "其他",
+    "title": "Blender 3D设计师",
+    "salary": "按项目结算",
+    "company": "东莞摩尔微视科技有限公司 | 东莞",
+    "recruit": "社招",
+    "requirements": [
+      "熟悉Blender软件，能开发3D模型",
+      "构建三维立体动态效果（用于全息3D光刻）",
+      "经验和学历不限，兼职起步可转全职"
+    ],
+    "apply": "站酷平台在线投递（www.more-vision.com）",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTE1Mg==.html",
+    "extraTag": "经验不限"
+  },
+  {
+    "category": "design",
+    "tags": "高薪",
+    "city": "北京",
+    "title": "潮玩主设计（二次元/文创）",
+    "salary": "25K-40K",
+    "company": "大连艾汉特咨询服务有限公司 | 北京",
+    "recruit": "社招",
+    "requirements": [
+      "3-4年二次元概念设计经验",
+      "精通二次元风格，擅长角色和场景概念设计",
+      "具备插画绘制能力",
+      "熟练使用PS、SAI等设计软件",
+      "热爱二次元文化，本科学历"
+    ],
+    "apply": "站酷平台在线投递（本周最新发布）",
+    "deadline": "2026年4月最新",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTMyOA==.html",
+    "extraTag": "高薪"
+  },
+  {
+    "category": "design",
+    "tags": "应届友好",
+    "city": "广州",
+    "title": "餐饮品牌设计师（双休）",
+    "salary": "6K-10K",
+    "company": "广州知尖品牌顾问有限公司 | 广州",
+    "recruit": "社招",
+    "requirements": [
+      "美术、平面设计相关专业，大专以上",
+      "对标志、VI、画册设计有全面把握",
+      "创意企划能力强，沟通表达能力强",
+      "熟悉Midjourney等AI绘画工具优先",
+      "良好审美素养，热爱设计"
+    ],
+    "apply": "站酷平台在线投递（4月最新发布）",
+    "deadline": "2026年4月最新",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTM0OA==.html",
+    "extraTag": "双休"
+  },
+  {
+    "category": "design",
+    "tags": "",
+    "city": "广州",
+    "title": "UI设计师（海外App方向/双休）",
+    "salary": "7K-10K",
+    "company": "广州积贝科技有限公司 | 广州",
+    "recruit": "社招",
+    "requirements": [
+      "1-3年海外App UI设计经验",
+      "美术/设计相关专业",
+      "熟练使用AE、Figma、蓝湖等工具",
+      "对色彩排版视觉细节把控力强",
+      "需附近期作品集（含主导项目）",
+      "AI设计工具经验、英语四六级优先"
+    ],
+    "apply": "站酷平台在线投递（4月最新发布）",
+    "deadline": "2026年4月最新",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTMzMg==.html",
+    "extraTag": ""
+  },
+  {
+    "category": "design",
+    "tags": "校招,应届友好",
+    "city": "杭州",
+    "title": "游戏平面设计实习生",
+    "salary": "2K-3K",
+    "company": "杭州玉尊信息科技有限公司 | 杭州",
+    "recruit": "校招",
+    "requirements": [
+      "大专及以上在读/应届学生",
+      "视觉传达、艺术设计、数字媒体等专业优先",
+      "熟练使用Photoshop、Illustrator",
+      "良好审美与版式能力",
+      "对游戏美术风格有理解和兴趣",
+      "能保证稳定实习时长，有作品优先"
+    ],
+    "apply": "站酷平台在线投递（4月最新发布）",
+    "deadline": "2026年4月最新",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTM0MA==.html",
+    "extraTag": "实习/应届"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "字节跳动 - 设计类校招岗",
+    "salary": "高薪（大厂待遇）",
+    "company": "字节跳动 | 北京/上海/深圳/杭州/成都等",
+    "recruit": "校招",
+    "requirements": [
+      "2025.9-2026.8毕业的全日制应届生",
+      "设计类方向含交互设计、视觉设计、用户研究等",
+      "5000+Offer，8大职类全年开放投递",
+      "需具备AI+专业的复合能力（AIGC辅助创意）",
+      "越早投递Offer几率越高"
+    ],
+    "apply": "字节跳动校招官网在线投递，每人2次投递机会",
+    "deadline": "全年开放",
+    "url": "https://jobs.bytedance.com/campus",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "应届友好",
+    "city": "其他",
+    "title": "平面设计师",
+    "salary": "5K-9K",
+    "company": "安徽源创环境艺术工程有限公司 | 六安",
+    "recruit": "社招",
+    "requirements": [
+      "本科学历，视觉设计/传达等专业优先",
+      "熟练运用AI/PS软件",
+      "良好审美能力，对美感有较高敏锐度"
+    ],
+    "apply": "六安市人社局官网查看联系方式",
+    "deadline": "2026年4月",
+    "url": "https://rsj.luan.gov.cn/public/6608261/10757591.html",
+    "extraTag": "应届可投"
+  },
+  {
+    "category": "design",
+    "tags": "高薪",
+    "city": "杭州",
+    "title": "AI平面设计师",
+    "salary": "12K-16K",
+    "company": "杭州兴耀商业经营管理有限公司 | 杭州",
+    "recruit": "社招",
+    "requirements": [
+      "丰富平面设计经验，有一定视觉审美",
+      "真正在用AI做设计，有自己的工作流",
+      "对AI赋能商业内容有想法",
+      "3-5年经验，本科学历",
+      "专注商业空间、内容营销、小红书投流方向"
+    ],
+    "apply": "站酷平台在线投递（4月最新发布）",
+    "deadline": "2026年4月最新",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTM0NA==.html",
+    "extraTag": "AI+设计"
+  },
+  {
+    "category": "edit",
+    "tags": "应届友好",
+    "city": "武汉",
+    "title": "短视频剪辑师",
+    "salary": "6K-12K",
+    "company": "BOSS直聘热招 | 武汉",
+    "recruit": "社招",
+    "requirements": [
+      "大专及以上学历",
+      "熟练使用PR、AE、剪映等剪辑工具",
+      "经验不限，有短视频作品优先",
+      "有一定的镜头语言理解能力和画面节奏感"
+    ],
+    "apply": "BOSS直聘APP在线沟通投递",
+    "deadline": "持续招聘",
+    "url": "https://www.zhipin.com/zhaopin/b2b6079e3f2de5eb1XBz3dk~/",
+    "extraTag": "应届可投"
+  },
+  {
+    "category": "edit",
+    "tags": "高薪",
+    "city": "北京",
+    "title": "视频后期剪辑师",
+    "salary": "8K-15K",
+    "company": "BOSS直聘精选 | 全国多地",
+    "recruit": "社招",
+    "requirements": [
+      "熟练使用Premiere、After Effects、DaVinci Resolve",
+      "具备调色、特效制作能力",
+      "有短视频或商业广告剪辑经验优先",
+      "良好的审美和画面节奏感"
+    ],
+    "apply": "BOSS直聘APP在线沟通投递",
+    "deadline": "持续招聘",
+    "url": "https://www.zhipin.com/zhaopin/ed1f13ea403820d303J43Nq0/",
+    "extraTag": "经验不限"
+  },
+  {
+    "category": "edit",
+    "tags": "高薪",
+    "city": "上海",
+    "title": "AI视频美术/AI指导",
+    "salary": "15K-25K",
+    "company": "上海聚龙广告有限公司 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "1年以上广告/影视/设计相关经验",
+      "美术功底扎实，优秀视觉审美",
+      "熟练运用主流AIGC工具",
+      "对AI技术在广告创作中的应用感兴趣",
+      "本科学历，沟通协作能力强"
+    ],
+    "apply": "站酷平台在线投递（4月最新发布）",
+    "deadline": "2026年4月最新",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTM3Ng==.html",
+    "extraTag": "高薪"
+  },
+  {
+    "category": "edit",
+    "tags": "应届友好",
+    "city": "上海",
+    "title": "AI视频制作",
+    "salary": "8K-12K",
+    "company": "上海意类广告有限公司 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "0-3年工作经验，学历不限",
+      "对短视频创作有热爱和审美品味",
+      "需提供个人AIGC作品",
+      "有导演经验优先"
+    ],
+    "apply": "站酷平台在线投递（4月最新发布）",
+    "deadline": "2026年4月最新",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTM3Mg==.html",
+    "extraTag": "经验不限"
+  },
+  {
+    "category": "edit",
+    "tags": "应届友好",
+    "city": "武汉",
+    "title": "短剧剪辑师",
+    "salary": "6K-10K",
+    "company": "BOSS直聘 | 武汉·洪山区",
+    "recruit": "社招",
+    "requirements": [
+      "熟练使用PR/AE等后期工具",
+      "较强的故事叙事能力和节奏把控",
+      "了解短剧市场趋势",
+      "有作品者优先"
+    ],
+    "apply": "BOSS直聘APP在线沟通投递",
+    "deadline": "持续招聘",
+    "url": "https://www.zhipin.com/zhaopin/143ba8430816e5f003V92NW6FQ~~/",
+    "extraTag": ""
+  },
+  {
+    "category": "edit",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "字节跳动 - 运营类校招岗（含内容/视频方向）",
+    "salary": "高薪（大厂待遇）",
+    "company": "字节跳动 | 北京/上海/深圳/成都等",
+    "recruit": "校招",
+    "requirements": [
+      "2025.9-2026.8毕业的应届生",
+      "运营类含内容运营/视频审核/项目管理等方向",
+      "需具备AI工具应用能力（视频制作/图像编辑）",
+      "每人2次投递机会，全年开放"
+    ],
+    "apply": "字节跳动校招官网在线投递",
+    "deadline": "全年开放",
+    "url": "https://jobs.bytedance.com/campus",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "应届友好",
+    "city": "北京",
+    "title": "新媒体运营专员",
+    "salary": "5K-8K",
+    "company": "BOSS直聘热招 | 全国多地",
+    "recruit": "社招",
+    "requirements": [
+      "负责微信/视频号/抖音等平台的日常运营",
+      "热点追踪、选题策划、文案撰写",
+      "视觉设计与视频创意、数据分析",
+      "零经验可投，提供岗前培训"
+    ],
+    "apply": "BOSS直聘APP在线沟通投递",
+    "deadline": "持续招聘",
+    "url": "https://www.zhipin.com/zhaopin/c3e1696eaca1c39a1nVz3NS7/",
+    "extraTag": "应届友好"
+  },
+  {
+    "category": "operate",
+    "tags": "应届友好",
+    "city": "上海",
+    "title": "数智营销专员",
+    "salary": "面议",
+    "company": "上海幻晶纳科新材料有限公司 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "本科以上，市场营销等相关专业",
+      "负责社交媒体运营、内容策划、互动运营",
+      "探索AI工具在营销中的应用",
+      "掌握网络沟通能力，有创新意识",
+      "提供完善福利和培训体系"
+    ],
+    "apply": "发送简历至 selinawhimsy@163.com",
+    "deadline": "2026年有效",
+    "url": "https://www.shanghai.gov.cn/nw17239/20260116/7d878b8fcb67438b92e4ccfb5f70e938.html",
+    "extraTag": "应届可投"
+  },
+  {
+    "category": "operate",
+    "tags": "应届友好",
+    "city": "上海",
+    "title": "市场策划（新媒体方向）",
+    "salary": "面议",
+    "company": "上海幻晶纳科新材料有限公司 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "本科以上学历",
+      "负责宣传文案撰写和物料美术设计",
+      "新媒体平台运营维护",
+      "掌握PS、AI等设计软件",
+      "优秀文字创作能力"
+    ],
+    "apply": "发送简历至 selinawhimsy@163.com",
+    "deadline": "2026年有效",
+    "url": "https://www.shanghai.gov.cn/nw17239/20260116/7d878b8fcb67438b92e4ccfb5f70e938.html",
+    "extraTag": ""
+  },
+  {
+    "category": "operate",
+    "tags": "高薪",
+    "city": "北京",
+    "title": "新媒体运营（猎聘精选）",
+    "salary": "8K-15K",
+    "company": "猎聘平台精选 | 北京",
+    "recruit": "社招",
+    "requirements": [
+      "熟悉小红书/抖音/微信等平台算法机制",
+      "负责内容运营与粉丝增长策略",
+      "有运营过达人账号或企业号经验优先",
+      "数据分析能力，能产出运营复盘报告"
+    ],
+    "apply": "猎聘平台在线投递",
+    "deadline": "持续招聘",
+    "url": "https://www.liepin.com/job/1976638119.shtml",
+    "extraTag": "高薪"
+  },
+  {
+    "category": "operate",
+    "tags": "应届友好",
+    "city": "北京",
+    "title": "新媒体运营（前程无忧精选）",
+    "salary": "6K-10K",
+    "company": "前程无忧平台 | 全国多地",
+    "recruit": "社招",
+    "requirements": [
+      "公众号运营/短视频运营/社群运营等方向",
+      "多家企业在招，支持按城市和薪资筛选",
+      "部分岗位接受应届零经验",
+      "具备内容创作与数据分析能力"
+    ],
+    "apply": "前程无忧平台在线投递",
+    "deadline": "持续更新",
+    "url": "https://jobs.51job.com/xinmeitiyunying/",
+    "extraTag": "应届友好"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,应届友好",
+    "city": "广州",
+    "title": "品宣综合岗（央国企·2026校招）",
+    "salary": "面议（央国企）",
+    "company": "广州新锐光掩模科技有限公司 | 广州",
+    "recruit": "校招",
+    "requirements": [
+      "本科及以上学历",
+      "公共关系、新闻传播、中文等专业",
+      "负责企业品牌宣传与新媒体运营",
+      "央国企待遇"
+    ],
+    "apply": "详见知乎岗位合集中的投递链接",
+    "deadline": "招满即止",
+    "url": "https://zhuanlan.zhihu.com/p/1999913181557065476",
+    "extraTag": "央国企"
+  },
+  {
+    "category": "photo",
+    "tags": "应届友好",
+    "city": "其他",
+    "title": "商业摄影师/新媒体摄影",
+    "salary": "5K-8K",
+    "company": "安徽斛生记生物科技有限公司 | 六安",
+    "recruit": "社招",
+    "requirements": [
+      "精通各类商业摄影技巧",
+      "出色的审美能力和创意思维",
+      "拍摄产品图、场景图和人物图",
+      "良好团队合作精神，强烈责任心"
+    ],
+    "apply": "六安市人社局官网查看联系方式",
+    "deadline": "2026年4月",
+    "url": "https://rsj.luan.gov.cn/public/6608261/10757591.html",
+    "extraTag": "应届可投"
+  },
+  {
+    "category": "photo",
+    "tags": "高薪",
+    "city": "武汉",
+    "title": "编导拍摄剪辑",
+    "salary": "8K-15K",
+    "company": "BOSS直聘热招 | 武汉·江汉区",
+    "recruit": "社招",
+    "requirements": [
+      "短视频内容策划、拍摄与剪辑全流程",
+      "有镜头语言理解能力",
+      "熟练使用拍摄设备和后期软件",
+      "有创意策划能力和团队协作意识"
+    ],
+    "apply": "BOSS直聘APP在线沟通投递",
+    "deadline": "持续招聘",
+    "url": "https://www.zhipin.com/zhaopin/143ba8430816e5f003V92NW6FQ~~/",
+    "extraTag": "高薪"
+  },
+  {
+    "category": "photo",
+    "tags": "央媒/国企,校招,应届友好",
+    "city": "北京",
+    "title": "品牌管培生（拍摄/视觉方向）",
+    "salary": "面议（央企待遇）",
+    "company": "阳光保险集团 | 全国",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生",
+      "影视制作、数字媒体艺术等相关专业",
+      "负责短视频拍摄、后期剪辑和视觉优化",
+      "央企福利：五险一金，系统培养体系"
+    ],
+    "apply": "阳光保险校招官网在线申请",
+    "deadline": "校招进行中",
+    "url": "https://sunzhaopin.sinosig.com/campusxq?c=&d=3&jc=2&jobId=621023335&jobcatefullName=%E9%9B%86%E5%9B%A2&p=1%2C3%5E-1",
+    "extraTag": "2026管培生"
+  },
+  {
+    "category": "photo",
+    "tags": "",
+    "city": "武汉",
+    "title": "拍摄剪辑短视频",
+    "salary": "8K-12K",
+    "company": "BOSS直聘 | 武汉·武昌区",
+    "recruit": "社招",
+    "requirements": [
+      "具备独立拍摄能力",
+      "熟悉灯光布景、基础调色",
+      "掌握特效制作基础",
+      "有作品集者优先"
+    ],
+    "apply": "BOSS直聘APP在线沟通投递",
+    "deadline": "持续招聘",
+    "url": "https://www.zhipin.com/zhaopin/6b4e628f1ecf29370nR_2t20Ew~~/",
+    "extraTag": ""
+  },
+  {
+    "category": "photo",
+    "tags": "应届友好",
+    "city": "北京",
+    "title": "摄影摄像实习生",
+    "salary": "5K-10K",
+    "company": "BOSS直聘 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "在校生/应届生，本科学历",
+      "影视、摄影相关专业",
+      "提供带薪培训",
+      "有个人摄影作品集优先"
+    ],
+    "apply": "BOSS直聘APP在线沟通投递",
+    "deadline": "持续招聘",
+    "url": "https://www.zhipin.com/zhaopin/ad0a829f11cce3310nx82NS0/",
+    "extraTag": "应届可投"
+  },
+  {
+    "category": "photo",
+    "tags": "应届友好",
+    "city": "北京",
+    "title": "摄影/摄像岗位（应届生合集）",
+    "salary": "5K-13K",
+    "company": "应届生求职网精选 | 全国多地",
+    "recruit": "社招",
+    "requirements": [
+      "应届生摄影招聘专区，全国各地岗位汇总",
+      "商业摄影、产品摄影、视频拍摄等方向",
+      "各岗位要求不同，多数无需丰富经验",
+      "支持按城市和方向筛选"
+    ],
+    "apply": "应届生求职网在线投递",
+    "deadline": "持续更新",
+    "url": "https://zhiwei.yingjiesheng.com/sheying/",
+    "extraTag": "应届专区"
+  },
+  {
+    "category": "news",
+    "tags": "央媒/国企",
+    "city": "北京",
+    "title": "全媒体记者/编辑（人民日报社）",
+    "salary": "事业编制",
+    "company": "人民日报社 | 北京",
+    "recruit": "社招",
+    "requirements": [
+      "硕士研究生及以上学历",
+      "新闻、传播等相关专业",
+      "政治立场坚定，良好的文字功底",
+      "拟聘8人，事业编制",
+      "多个岗位方向，共招聘32人"
+    ],
+    "apply": "人民日报社公开招聘系统在线报名",
+    "deadline": "关注官网公告",
+    "url": "http://hr.peopledaily.com.cn/Recruitment/x/job/list.html",
+    "extraTag": "央媒"
+  },
+  {
+    "category": "news",
+    "tags": "央媒/国企,应届友好",
+    "city": "北京",
+    "title": "记者/编辑（新华社）",
+    "salary": "事业编制",
+    "company": "新华社 | 全国",
+    "recruit": "社招",
+    "requirements": [
+      "新闻传播、文学、法学、经济学等专业",
+      "记者岗：外出采访写稿",
+      "编辑岗：办公室稿件修改审核",
+      "共招聘205人（总社134名+分社71名）",
+      "事业编制，全国多个驻地"
+    ],
+    "apply": "新华社招聘官网报名，邮箱 xinhuashezhaopin@xinhua.org",
+    "deadline": "关注官网公告",
+    "url": "http://www.news.cn/xhs/hr/index.htm",
+    "extraTag": "央媒"
+  },
+  {
+    "category": "news",
+    "tags": "央媒/国企",
+    "city": "北京",
+    "title": "央视网校招岗位",
+    "salary": "面议（央媒）",
+    "company": "央视网 | 北京及全国",
+    "recruit": "校招",
+    "requirements": [
+      "涵盖编辑、记者、新媒体运营等多种岗位",
+      "工作地点覆盖全国多个城市",
+      "新闻传播等相关专业优先",
+      "具体要求详见各岗位说明"
+    ],
+    "apply": "央视网招聘官网在线报名",
+    "deadline": "关注官网",
+    "url": "https://career.cntv.cn/",
+    "extraTag": "央媒"
+  },
+  {
+    "category": "news",
+    "tags": "央媒/国企,校招,应届友好",
+    "city": "广州",
+    "title": "编辑/记者（南方出版传媒·2026校招）",
+    "salary": "面议",
+    "company": "南方出版传媒 | 广州",
+    "recruit": "校招",
+    "requirements": [
+      "六大类岗位，51个具体职位，招聘86人",
+      "包含编辑类和记者类岗位",
+      "面向新闻传播学、中文等专业应届毕业生",
+      "国有出版传媒集团，福利完善"
+    ],
+    "apply": "前程无忧南方出版传媒校招专页在线投递",
+    "deadline": "校招进行中",
+    "url": "http://campus.51job.com/nfcb2026/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "应届友好",
+    "city": "北京",
+    "title": "记者/编辑岗位（应届生合集）",
+    "salary": "多档薪资",
+    "company": "应届生求职网 | 全国多地",
+    "recruit": "社招",
+    "requirements": [
+      "全国各地记者/编辑岗位汇总",
+      "报社、杂志、网站、新媒体等方向",
+      "大多数岗位无需丰富工作经验",
+      "支持按城市和行业筛选"
+    ],
+    "apply": "应届生求职网在线投递",
+    "deadline": "持续更新",
+    "url": "https://zhiwei.yingjiesheng.com/jizhe/",
+    "extraTag": "应届专区"
+  },
+  {
+    "category": "news",
+    "tags": "应届友好",
+    "city": "北京",
+    "title": "传媒类岗位（应届生合集）",
+    "salary": "多档薪资",
+    "company": "应届生求职网 | 全国多地",
+    "recruit": "社招",
+    "requirements": [
+      "传媒行业招聘合集",
+      "内容编辑、栏目策划、新闻采编、融媒体运营等",
+      "多家传媒机构在招应届毕业生",
+      "支持按方向筛选"
+    ],
+    "apply": "应届生求职网在线投递",
+    "deadline": "持续更新",
+    "url": "https://zhiwei.yingjiesheng.com/chuanmei/",
+    "extraTag": "应届专区"
+  },
+  {
+    "category": "space",
+    "tags": "应届友好",
+    "city": "上海",
+    "title": "空间设计师",
+    "salary": "6K-7K",
+    "company": "上海形格艺术设计有限公司 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "建筑学/室内设计/产品设计相关专业，本科以上",
+      "3-5年相关经验",
+      "具备设计深化与施工深化能力",
+      "熟练掌握CAD、SU、PS等设计软件",
+      "有商业空间从创意到实施的实战经验"
+    ],
+    "apply": "发送简历至 Hr@sigedesign.com",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNTE2OA==.html",
+    "extraTag": ""
+  },
+  {
+    "category": "space",
+    "tags": "校招,应届友好",
+    "city": "北京",
+    "title": "室内设计师（2026校招）",
+    "salary": "6K-11K",
+    "company": "杰地设计集团 | 全国多地",
+    "recruit": "校招",
+    "requirements": [
+      "环境设计/室内设计等相关专业应届毕业生",
+      "设计师、摄影师、实习生等多岗位可选",
+      "具备空间设计基本功和软件能力",
+      "系统化培训和成长路径"
+    ],
+    "apply": "鼠鼠求职平台在线投递",
+    "deadline": "校招进行中",
+    "url": "https://www.shushuqiuzhi.com/article/150812",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "space",
+    "tags": "",
+    "city": "上海",
+    "title": "展示展览空间设计师",
+    "salary": "8K-15K",
+    "company": "智联招聘精选 | 上海",
+    "recruit": "社招",
+    "requirements": [
+      "展览空间整体设计方案制定和实施",
+      "掌握3Dmax、CAD、PS等设计软件",
+      "有展览馆/博物馆设计经验优先",
+      "空间感知能力和艺术审美"
+    ],
+    "apply": "智联招聘平台在线投递",
+    "deadline": "持续招聘",
+    "url": "https://www.zhaopin.com/zhaopin/9c6df1bd7f254300acf04f968650fc3a/",
+    "extraTag": ""
+  },
+  {
+    "category": "space",
+    "tags": "校招,大厂,应届友好",
+    "city": "深圳",
+    "title": "TCL校招设计岗",
+    "salary": "面议（大厂待遇）",
+    "company": "TCL集团 | 全国多地",
+    "recruit": "校招",
+    "requirements": [
+      "2025.9-2026.12毕业的应届毕业生",
+      "产品设计/空间设计/交互设计等方向",
+      "艺术设计相关专业",
+      "大厂平台与成长机会"
+    ],
+    "apply": "TCL校招官网在线投递",
+    "deadline": "校招进行中",
+    "url": "https://zhaopin.tcl.com/campus",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "space",
+    "tags": "",
+    "city": "上海",
+    "title": "艺术展览空间设计",
+    "salary": "8K-12K",
+    "company": "智联招聘精选 | 全国多地",
+    "recruit": "社招",
+    "requirements": [
+      "艺术展览空间的整体设计与布展规划",
+      "环境设计或相关专业",
+      "具备空间感知能力和艺术审美",
+      "熟练使用3D建模和渲染软件"
+    ],
+    "apply": "智联招聘平台在线投递",
+    "deadline": "持续招聘",
+    "url": "https://m.zhaopin.com/zhaopin/7d54a21e045d4e829c4e9a3caf96eedd/",
+    "extraTag": ""
+  },
+  {
+    "category": "space",
+    "tags": "应届友好",
+    "city": "北京",
+    "title": "室内设计师（应届生合集）",
+    "salary": "6K-11K",
+    "company": "猎聘平台 | 全国多地",
+    "recruit": "社招",
+    "requirements": [
+      "室内设计师岗位合集，覆盖全国各大城市",
+      "多家设计公司招聘应届毕业生",
+      "提供系统培训和职业成长路径",
+      "支持按城市和薪资筛选"
+    ],
+    "apply": "猎聘平台在线投递",
+    "deadline": "持续更新",
+    "url": "https://www.liepin.com/zpshineishejishi/",
+    "extraTag": "应届专区"
+  },
+  {
+    "category": "space",
+    "tags": "",
+    "city": "北京",
+    "title": "平面设计师（餐饮空间方向）",
+    "salary": "10K-12K",
+    "company": "大连唯品建筑装饰设计工程有限公司 | 北京",
+    "recruit": "社招",
+    "requirements": [
+      "本科学历，3-5年工作经验",
+      "熟练使用PS、AI、CDR等设计软件",
+      "具备审美、排版、色彩搭配、构图能力",
+      "理解品牌、营销、用户视觉逻辑",
+      "有餐饮设计经验优先"
+    ],
+    "apply": "站酷平台在线投递",
+    "deadline": "长期有效",
+    "url": "https://www.zcool.com.cn/opportunity/post/ZNDk5Ng==.html",
+    "extraTag": ""
+  }
+]
