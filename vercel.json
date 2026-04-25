@@ -3,7 +3,6 @@
   "outputDirectory": "public",
   "functions": {
     "api/jobs.go": {
-      "runtime": "vercel-golang@0.4.0",
       "maxDuration": 60
     }
   },
