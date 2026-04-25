@@ -206,5 +206,14 @@ module.exports = async function handler(req, res) {
   const data = await loadFromBlob();
   if (data) return res.json(data);
 
-  return res.json({ jobs: builtinJobs(), updatedAt: '内置数据（未配置Blob Storage）' });
+  // Blob 里还没有数据，用内置数据并尝试写入
+  const token = process.env.BLOB_READ_WRITE_TOKEN;
+  const fallback = {
+    jobs: builtinJobs(),
+    updatedAt: token ? nowBeijing() + '（内置数据，等待每日自动更新）' : '内置数据（未配置Blob Storage）'
+  };
+  if (token) {
+    await saveToBlob(fallback);
+  }
+  return res.json(fallback);
 };
