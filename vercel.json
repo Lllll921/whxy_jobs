@@ -2,7 +2,7 @@
   "buildCommand": "",
   "outputDirectory": "public",
   "functions": {
-    "api/jobs.go": {
+    "api/jobs.js": {
       "maxDuration": 60
     }
   },
