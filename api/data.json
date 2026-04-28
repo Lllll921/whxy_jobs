@@ -286,7 +286,7 @@
     "title": "游戏平面设计实习生",
     "salary": "2K-3K",
     "company": "杭州玉尊信息科技有限公司 | 杭州",
-    "recruit": "校招",
+    "recruit": "实习",
     "requirements": [
       "大专及以上在读/应届学生",
       "视觉传达、艺术设计、数字媒体等专业优先",
@@ -584,9 +584,9 @@
       "负责企业品牌宣传与新媒体运营",
       "央国企待遇"
     ],
-    "apply": "详见知乎岗位合集中的投递链接",
+    "apply": "请访问广州新锐光掩模科技公司官网查看招聘信息",
     "deadline": "招满即止",
-    "url": "https://zhuanlan.zhihu.com/p/1999913181557065476",
+    "url": "http://nrmtc.com/",
     "extraTag": "央国企"
   },
   {
@@ -672,7 +672,7 @@
     "title": "摄影摄像实习生",
     "salary": "5K-10K",
     "company": "BOSS直聘 | 北京",
-    "recruit": "校招",
+    "recruit": "实习",
     "requirements": [
       "在校生/应届生，本科学历",
       "影视、摄影相关专业",
@@ -710,7 +710,7 @@
     "title": "全媒体记者/编辑（人民日报社）",
     "salary": "事业编制",
     "company": "人民日报社 | 北京",
-    "recruit": "社招",
+    "recruit": "校招",
     "requirements": [
       "硕士研究生及以上学历",
       "新闻、传播等相关专业",
@@ -730,7 +730,7 @@
     "title": "记者/编辑（新华社）",
     "salary": "事业编制",
     "company": "新华社 | 全国",
-    "recruit": "社招",
+    "recruit": "校招",
     "requirements": [
       "新闻传播、文学、法学、经济学等专业",
       "记者岗：外出采访写稿",
@@ -759,7 +759,7 @@
     ],
     "apply": "央视网招聘官网在线报名",
     "deadline": "关注官网",
-    "url": "https://career.cntv.cn/",
+    "url": "http://campus.51job.com/CMG2026/",
     "extraTag": "央媒"
   },
   {
@@ -953,5 +953,1451 @@
     "deadline": "长期有效",
     "url": "https://www.zcool.com.cn/opportunity/post/ZNDk5Ng==.html",
     "extraTag": ""
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "深圳",
+    "title": "腾讯 - 视觉设计师（校招）",
+    "salary": "年包约25-35W",
+    "company": "腾讯 | 深圳/北京/上海/广州/成都",
+    "recruit": "校招",
+    "requirements": [
+      "2025.1-2026.12期间毕业的本科及以上学历",
+      "设计相关专业（视觉传达、平面设计、数字媒体等）",
+      "熟练掌握Figma/Sketch/PS/AI等设计工具",
+      "有完整的作品集，展示视觉设计能力",
+      "对互联网产品有较好的审美和设计敏感度"
+    ],
+    "apply": "腾讯校招官网 join.qq.com 投递",
+    "deadline": "春招持续开放",
+    "url": "https://join.qq.com/post.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "深圳",
+    "title": "腾讯 - 交互设计师（校招）",
+    "salary": "年包约25-35W",
+    "company": "腾讯 | 深圳/北京/上海/广州/成都",
+    "recruit": "校招",
+    "requirements": [
+      "2025.1-2026.12期间毕业的本科及以上学历",
+      "交互设计、工业设计、人机交互等相关专业",
+      "具备用户研究和交互原型设计能力",
+      "熟练使用Figma/Axure/Sketch等工具",
+      "有完整的交互设计作品集"
+    ],
+    "apply": "腾讯校招官网 join.qq.com 投递",
+    "deadline": "春招持续开放",
+    "url": "https://join.qq.com/post.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "深圳",
+    "title": "腾讯 - 内容运营（校招）",
+    "salary": "年包约23-37W",
+    "company": "腾讯 | 深圳/北京/上海/广州/成都",
+    "recruit": "校招",
+    "requirements": [
+      "2025.1-2026.12期间毕业的本科及以上学历",
+      "新闻传播、中文、市场营销等相关专业优先",
+      "具备优秀的文字功底和内容策划能力",
+      "对互联网内容生态有较深理解",
+      "有新媒体运营或内容创作经验者优先"
+    ],
+    "apply": "腾讯校招官网 join.qq.com 投递",
+    "deadline": "春招持续开放",
+    "url": "https://join.qq.com/post.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "杭州",
+    "title": "网易 - 游戏视觉UI设计师（校招）",
+    "salary": "年包约25-40W",
+    "company": "网易 | 杭州/上海/广州",
+    "recruit": "校招",
+    "requirements": [
+      "2025.9-2026.8期间毕业的本科及以上学历",
+      "视觉设计、数字媒体艺术、平面设计等相关专业",
+      "熟练掌握PS/AI/Figma等设计软件",
+      "有游戏UI设计或相关项目经验者优先",
+      "具备良好的色彩感和版式设计能力"
+    ],
+    "apply": "网易校招官网 campus.163.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://campus.163.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "杭州",
+    "title": "网易 - 概念原画设计师（校招）",
+    "salary": "年包约25-40W",
+    "company": "网易 | 杭州/上海/广州",
+    "recruit": "校招",
+    "requirements": [
+      "2025.9-2026.8期间毕业的本科及以上学历",
+      "美术、插画、动画等相关专业",
+      "具备扎实的美术基本功和原画创作能力",
+      "熟练使用PS/SAI/Procreate等绘画工具",
+      "有完整的原画作品集"
+    ],
+    "apply": "网易校招官网 campus.163.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://campus.163.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "edit",
+    "tags": "校招,大厂,应届友好",
+    "city": "杭州",
+    "title": "网易 - 动效/动画设计师（校招）",
+    "salary": "年包约25-40W",
+    "company": "网易 | 杭州/上海/广州",
+    "recruit": "校招",
+    "requirements": [
+      "2025.9-2026.8期间毕业的本科及以上学历",
+      "动画、数字媒体、影视后期等相关专业",
+      "熟练掌握AE/C4D/Spine等动效工具",
+      "具备良好的动态视觉表现力",
+      "有游戏动效或Motion Graphics作品者优先"
+    ],
+    "apply": "网易校招官网 campus.163.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://campus.163.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "美团 - 视觉设计师（校招）",
+    "salary": "年包约25-30W",
+    "company": "美团 | 北京/上海/深圳/成都/广州",
+    "recruit": "校招",
+    "requirements": [
+      "2025.10-2026.9期间毕业的本硕博",
+      "视觉传达、数字媒体、平面设计等相关专业",
+      "熟练掌握Figma/PS/AI/Sketch等设计工具",
+      "有完整的设计作品集",
+      "对生活服务类产品有了解者优先"
+    ],
+    "apply": "美团校招官网 zhaopin.meituan.com 投递",
+    "deadline": "网申持续中",
+    "url": "https://zhaopin.meituan.com/web/campus",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "美团 - 平台运营（校招）",
+    "salary": "年包约23-30W",
+    "company": "美团 | 北京/上海/深圳/成都/广州",
+    "recruit": "校招",
+    "requirements": [
+      "2025.10-2026.9期间毕业的本硕博",
+      "具备较强的数据分析和逻辑思维能力",
+      "有活动策划或运营相关实习经验优先",
+      "良好的沟通能力和跨部门协作能力",
+      "对本地生活服务行业有热情"
+    ],
+    "apply": "美团校招官网 zhaopin.meituan.com 投递",
+    "deadline": "网申持续中",
+    "url": "https://zhaopin.meituan.com/web/campus",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "上海",
+    "title": "小红书 - 视觉设计师（校招）",
+    "salary": "竞争力薪酬（年包约30-45W）",
+    "company": "小红书 | 上海/北京/杭州/深圳/武汉",
+    "recruit": "校招",
+    "requirements": [
+      "2023.9-2026.8期间毕业的全球本硕博",
+      "视觉传达、平面设计、数字媒体等相关专业",
+      "熟练使用Figma/PS/AI等设计工具",
+      "对小红书社区内容风格有深入了解",
+      "有完整的视觉设计作品集"
+    ],
+    "apply": "小红书校招官网 campus.xiaohongshu.com 投递",
+    "deadline": "网申持续中",
+    "url": "https://campus.xiaohongshu.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "上海",
+    "title": "小红书 - 内容运营（校招）",
+    "salary": "竞争力薪酬（年包约25-40W）",
+    "company": "小红书 | 上海/北京/杭州/深圳/武汉",
+    "recruit": "校招",
+    "requirements": [
+      "2023.9-2026.8期间毕业的全球本硕博",
+      "新闻传播、市场营销、中文等相关专业优先",
+      "对小红书平台内容生态有深度理解",
+      "具备优秀的内容策划和文案能力",
+      "有新媒体运营或内容创作经验者优先"
+    ],
+    "apply": "小红书校招官网 campus.xiaohongshu.com 投递",
+    "deadline": "网申持续中",
+    "url": "https://campus.xiaohongshu.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "上海",
+    "title": "哔哩哔哩 - PUGV内容运营（校招）",
+    "salary": "年包约25-36W",
+    "company": "哔哩哔哩 | 上海/北京/广州/杭州",
+    "recruit": "校招",
+    "requirements": [
+      "2026.1-2026.12期间毕业的本科/硕士应届生",
+      "对B站社区文化和内容生态有深入了解",
+      "具备内容策划和数据分析能力",
+      "二次元爱好者优先",
+      "新闻传播、数字媒体等相关专业优先"
+    ],
+    "apply": "B站校招官网 jobs.bilibili.com/campus 投递",
+    "deadline": "网申持续中",
+    "url": "https://jobs.bilibili.com/campus/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "上海",
+    "title": "哔哩哔哩 - 视觉设计师（校招）",
+    "salary": "年包约25-36W",
+    "company": "哔哩哔哩 | 上海/北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026.1-2026.12期间毕业的本科/硕士应届生",
+      "视觉传达、平面设计、数字媒体等相关专业",
+      "熟练掌握PS/AI/Figma等设计工具",
+      "有完整的设计作品集",
+      "对二次元文化和年轻用户审美有理解"
+    ],
+    "apply": "B站校招官网 jobs.bilibili.com/campus 投递",
+    "deadline": "网申持续中",
+    "url": "https://jobs.bilibili.com/campus/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,大厂,应届友好",
+    "city": "上海",
+    "title": "哔哩哔哩 - 漫画编辑（校招）",
+    "salary": "年包约25-30W",
+    "company": "哔哩哔哩 | 上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026.1-2026.12期间毕业的本科/硕士应届生",
+      "对漫画和二次元内容有深入了解和热爱",
+      "具备内容审美和编辑能力",
+      "了解国内外漫画市场和趋势",
+      "中文、新闻传播、动画等相关专业优先"
+    ],
+    "apply": "B站校招官网 jobs.bilibili.com/campus 投递",
+    "deadline": "网申持续中",
+    "url": "https://jobs.bilibili.com/campus/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "快手 - AIGC设计师（校招）",
+    "salary": "年包约22W+",
+    "company": "快手 | 北京/杭州/深圳/上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届应届毕业生",
+      "设计、数字媒体、人工智能等交叉学科背景",
+      "熟悉AI生成内容工具（Midjourney/Stable Diffusion等）",
+      "具备视觉设计基础和创意能力",
+      "有AIGC相关项目经验者优先"
+    ],
+    "apply": "快手校招官网 zhaopin.kuaishou.cn 投递",
+    "deadline": "春招进行中",
+    "url": "https://zhaopin.kuaishou.cn/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "快手 - 内容运营（校招）",
+    "salary": "年包约20-30W",
+    "company": "快手 | 北京/杭州/深圳/上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届应届毕业生",
+      "新闻传播、市场营销、中文等相关专业优先",
+      "对短视频内容生态有深入理解",
+      "具备内容策划和数据分析能力",
+      "有新媒体运营经验者优先"
+    ],
+    "apply": "快手校招官网 zhaopin.kuaishou.cn 投递",
+    "deadline": "春招进行中",
+    "url": "https://zhaopin.kuaishou.cn/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "京东 - 设计师（校招）",
+    "salary": "年包约25-30W+",
+    "company": "京东 | 北京/上海/深圳",
+    "recruit": "校招",
+    "requirements": [
+      "2025.10-2026.9期间毕业的本硕博",
+      "视觉传达、交互设计、数字媒体等相关专业",
+      "熟练掌握主流设计软件",
+      "有电商或零售行业设计经验者优先",
+      "有完整的设计作品集"
+    ],
+    "apply": "京东校招官网 campus.jd.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://campus.jd.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "京东 - 平台运营（校招）",
+    "salary": "全年可达20个月薪酬",
+    "company": "京东 | 北京/上海/深圳",
+    "recruit": "校招",
+    "requirements": [
+      "2025.10-2026.9期间毕业的本硕博",
+      "具备数据分析和商业敏感度",
+      "良好的沟通协调和谈判能力",
+      "对电商/零售行业有热情",
+      "有相关实习经验者优先"
+    ],
+    "apply": "京东校招官网 campus.jd.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://campus.jd.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "深圳",
+    "title": "华为 - 用户体验设计师（校招）",
+    "salary": "年包约20-35W",
+    "company": "华为 | 深圳/北京/上海/杭州/成都/西安",
+    "recruit": "校招",
+    "requirements": [
+      "2026届本科及以上应届毕业生",
+      "交互设计、工业设计、视觉传达、人机交互等相关专业",
+      "具备用户研究和交互设计方法论",
+      "熟练使用Figma/Sketch/Axure等工具",
+      "有完整的UX设计作品集"
+    ],
+    "apply": "华为校招官网 career.huawei.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "杭州",
+    "title": "阿里巴巴 - 体验设计师（校招）",
+    "salary": "年包约30-45W",
+    "company": "阿里巴巴 | 杭州/北京/上海",
+    "recruit": "校招",
+    "requirements": [
+      "2025.11-2026.10期间毕业的海内外应届毕业生",
+      "交互设计、视觉传达、工业设计、人机交互等相关专业",
+      "熟练使用Figma/Sketch/PS等设计工具",
+      "有完整的设计作品集",
+      "对电商/本地生活等产品有设计见解"
+    ],
+    "apply": "阿里控股校招官网 talent-holding.alibaba.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://talent-holding.alibaba.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "杭州",
+    "title": "阿里巴巴 - 产品运营（校招）",
+    "salary": "年包约25-40W",
+    "company": "阿里巴巴 | 杭州/北京/上海",
+    "recruit": "校招",
+    "requirements": [
+      "2025.11-2026.10期间毕业的海内外应届毕业生",
+      "具备优秀的数据分析和逻辑思维能力",
+      "有运营策划或活动策划相关经验",
+      "良好的文案能力和创意思维",
+      "对阿里系产品（淘宝、天猫、闲鱼等）有深入理解"
+    ],
+    "apply": "阿里控股校招官网 talent-holding.alibaba.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://talent-holding.alibaba.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "百度 - 设计师（校招）",
+    "salary": "年包约25-35W",
+    "company": "百度 | 北京/上海/深圳/成都",
+    "recruit": "校招",
+    "requirements": [
+      "2026届应届毕业生",
+      "视觉传达、交互设计、数字媒体等相关专业",
+      "熟练使用Figma/PS/AI/Sketch等设计工具",
+      "有完整的设计作品集",
+      "对AI产品设计有兴趣者优先"
+    ],
+    "apply": "百度校招官网 talent.baidu.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://talent.baidu.com/jobs/list?recruitType=GRADUATE",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "北京",
+    "title": "百度 - 内容运营（校招）",
+    "salary": "年包约25W",
+    "company": "百度 | 北京/上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届应届毕业生",
+      "新闻传播、中文、市场营销等相关专业优先",
+      "负责产品推广运营、内容梳理、用户触达",
+      "具备活动策划与执行能力",
+      "对AI产品和搜索生态有兴趣"
+    ],
+    "apply": "百度校招官网 talent.baidu.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://talent.baidu.com/jobs/list?recruitType=GRADUATE",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "edit",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中央广播电视总台 - 广播电视编导岗（校招）",
+    "salary": "事业编制薪酬",
+    "company": "中央广播电视总台 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生或留学回国人员",
+      "广播电视编导、影视摄影与制作等相关专业",
+      "硕士研究生及以上学历",
+      "具备较强的视频创作和编导能力"
+    ],
+    "apply": "前程无忧央视总台校招页面投递",
+    "deadline": "关注官网公告",
+    "url": "http://campus.51job.com/CMG2026/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "photo",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中央广播电视总台 - 影视摄影与制作岗（校招）",
+    "salary": "事业编制薪酬",
+    "company": "中央广播电视总台 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生或留学回国人员",
+      "影视摄影与制作相关专业",
+      "硕士研究生及以上学历",
+      "熟练掌握拍摄设备和后期制作软件"
+    ],
+    "apply": "前程无忧央视总台校招页面投递",
+    "deadline": "关注官网公告",
+    "url": "http://campus.51job.com/CMG2026/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "edit",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "人民日报社 - 视频编导岗（校招）",
+    "salary": "事业编制薪酬",
+    "company": "人民日报社 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "编导、摄影摄像、影视后期制作等视频相关专业",
+      "硕士研究生及以上学历",
+      "对视频创作全流程有充分认知和丰富实践",
+      "能独立完成剪辑合成等后期及特效制作"
+    ],
+    "apply": "人民日报社公开招聘系统在线报名",
+    "deadline": "关注官网公告",
+    "url": "http://hr.peopledaily.com.cn/Recruitment/x/job/list.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,应届友好",
+    "city": "长沙",
+    "title": "芒果TV - 视觉设计实习生（青芒计划）",
+    "salary": "面议（含住房补贴、路费补贴）",
+    "company": "芒果TV/湖南卫视 | 长沙",
+    "recruit": "实习",
+    "requirements": [
+      "不限学历、不限专业",
+      "具备C4D、PS等设计经验或美术背景",
+      "能展示从创意到成片的完整链路",
+      "实习地点为长沙，须持续至8月中旬"
+    ],
+    "apply": "芒果TV青芒计划官网投递 hr.mgtv.com",
+    "deadline": "2026年5月20日",
+    "url": "https://hr.mgtv.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "edit",
+    "tags": "校招,应届友好",
+    "city": "长沙",
+    "title": "芒果TV - 编剧/编导实习生（青芒计划）",
+    "salary": "面议（含住房补贴、路费补贴）",
+    "company": "芒果TV/湖南卫视 | 长沙",
+    "recruit": "实习",
+    "requirements": [
+      "不限学历、不限专业",
+      "具备文学功底、电视思维及外语能力",
+      "实习地点为长沙，须持续至8月中旬",
+      "执行力强，有团队协作精神"
+    ],
+    "apply": "芒果TV青芒计划官网投递 hr.mgtv.com",
+    "deadline": "2026年5月20日",
+    "url": "https://hr.mgtv.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,应届友好",
+    "city": "长沙",
+    "title": "芒果TV - 宣传/新媒体运营实习生（青芒计划）",
+    "salary": "面议（含住房补贴、路费补贴）",
+    "company": "芒果TV/湖南卫视 | 长沙",
+    "recruit": "实习",
+    "requirements": [
+      "不限学历、不限专业",
+      "思维鲜活，有文字功底或运营经验",
+      "执行力强",
+      "实习地点为长沙，须持续至8月中旬"
+    ],
+    "apply": "芒果TV青芒计划官网投递 hr.mgtv.com",
+    "deadline": "2026年5月20日",
+    "url": "https://hr.mgtv.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中国日报社 - 新闻采编岗（校招）",
+    "salary": "事业编制薪酬",
+    "company": "中国日报社 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026年全国高校应届毕业生（含两年择业期）",
+      "新闻传播学、英语相关专业",
+      "硕士研究生及以上学历",
+      "2026年7月底前取得学历学位证书"
+    ],
+    "apply": "中国日报社招聘系统 chinadaily.zhiye.com 在线报名",
+    "deadline": "关注官网公告",
+    "url": "https://chinadaily.zhiye.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中国新闻社 - 融媒体中心新闻采编岗（校招）",
+    "salary": "事业编制薪酬",
+    "company": "中国新闻社 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "硕士或博士学历",
+      "网络与新媒体专业",
+      "年龄38周岁以下",
+      "具备岗位所需专业或技能条件"
+    ],
+    "apply": "前程无忧中新社校招页面在线报名",
+    "deadline": "关注官网公告",
+    "url": "http://campus.51job.com/chinanews2026/job.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,应届友好",
+    "city": "北京",
+    "title": "北京日报社 - 记者编辑岗（校招）",
+    "salary": "事业编制薪酬",
+    "company": "北京日报社 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生",
+      "新闻传播学、戏剧影视学等相关专业",
+      "非京生源需符合北京市引进毕业生政策",
+      "从事新闻采访报道、版面编辑、新媒体平台运营等"
+    ],
+    "apply": "北京日报社招聘系统 hrweb.bjd.com.cn 在线报名",
+    "deadline": "关注官网公告",
+    "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202512/t20251211_4336023.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,应届友好",
+    "city": "广州",
+    "title": "南方报业传媒集团 - 记者/新媒体编辑（校招）",
+    "salary": "面议（薪酬行业领先）",
+    "company": "南方报业传媒集团 | 广州/深圳",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生",
+      "新闻传播学、中文等相关专业",
+      "供职于南方日报、南方周末、南方都市报等",
+      "工作城市包括广州、深圳等"
+    ],
+    "apply": "关注\"南方报业校园招聘\"微信公众号报名",
+    "deadline": "关注官网公告",
+    "url": "https://campus.southcn.com",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,应届友好",
+    "city": "杭州",
+    "title": "浙江广电集团 - 融媒采编记者/编导（校招）",
+    "salary": "面议",
+    "company": "浙江广播电视集团（浙江卫视） | 杭州",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生或海外留学归国人员",
+      "新闻传播学、广播电视编导等相关专业",
+      "通过网申-简历初筛-笔试面试-体检政审流程",
+      "具备较强的采编和创作能力"
+    ],
+    "apply": "浙江广电集团ZMG人才招聘系统投递",
+    "deadline": "关注官网公告",
+    "url": "https://myhr.zrtg.com/jobs/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "上海",
+    "title": "上海广播电视台（SMG）- 记者编辑/编导岗（校招）",
+    "salary": "面议",
+    "company": "上海广播电视台（SMG） | 上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生",
+      "新闻传播学、广播电视编导等相关专业",
+      "硕士研究生及以上学历优先",
+      "具备新闻敏感度和创作能力"
+    ],
+    "apply": "SMG官方招聘平台 zhaopin.smg.cn 在线报名",
+    "deadline": "关注官网公告",
+    "url": "https://zhaopin.smg.cn/recruitment/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "武汉",
+    "title": "湖北日报传媒集团 - 全媒体记者/编辑/设计（校招50人）",
+    "salary": "事业单位薪酬福利",
+    "company": "湖北日报传媒集团 | 武汉",
+    "recruit": "校招",
+    "requirements": [
+      "2026年全国普通高等学校应届毕业生",
+      "年龄不超过35周岁",
+      "本科及以上学历",
+      "新闻传播学、设计学等相关专业",
+      "须在2026年7月底前取得学历学位证书"
+    ],
+    "apply": "登录 zhaopin.hubeidaily.net 报名",
+    "deadline": "关注官网公告",
+    "url": "https://zhaopin.hubeidaily.net/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "space",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "故宫博物院 - 文物保护与展览相关岗位（校招）",
+    "salary": "事业编制薪酬",
+    "company": "故宫博物院 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生",
+      "信息系统管理、档案管理、行政管理等方向",
+      "硕士研究生及以上学历",
+      "热爱文化和旅游事业"
+    ],
+    "apply": "故宫博物院官网在线报名 www.dpm.org.cn",
+    "deadline": "关注官网公告",
+    "url": "https://www.dpm.org.cn/classify_detail/378864.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "space",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中国国家博物馆 - 展览策划/文物研究岗位（校招）",
+    "salary": "事业编制薪酬",
+    "company": "中国国家博物馆 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "硕士研究生及以上学历",
+      "考古学、博物馆学、历史学、艺术学等相关专业",
+      "具有中华人民共和国国籍",
+      "详见国博官网招聘公告"
+    ],
+    "apply": "中国国家博物馆官网在线报名",
+    "deadline": "关注官网公告",
+    "url": "https://www.chnmuseum.cn/shxg/gbzp/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "space",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "国家大剧院 - 舞台技术/演出相关岗位（校招）",
+    "salary": "事业编制薪酬",
+    "company": "国家大剧院 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "相关艺术或技术专业",
+      "热爱表演艺术和文化事业",
+      "具体岗位要求详见官网公告",
+      "在国家大剧院官网\"招贤纳士\"栏目在线填报"
+    ],
+    "apply": "国家大剧院官网\"招贤纳士\"在线申请",
+    "deadline": "关注官网公告",
+    "url": "http://hr.chncpa.org:8080/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中国出版集团 - 图书编辑岗（含美术编辑·校招）",
+    "salary": "国企薪酬+六险一金",
+    "company": "中国出版集团（含人民文学出版社、人民美术出版社） | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届毕业生",
+      "编辑出版学、中文、艺术设计等相关专业",
+      "每人最多填报两个职位",
+      "综合素质测试分编辑类和非编辑类"
+    ],
+    "apply": "中国出版集团官网或微信公众号报名",
+    "deadline": "关注官网公告",
+    "url": "https://cnpubg.iguopin.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "edit",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中信出版集团 - 视频编导（校招）",
+    "salary": "国企薪酬+六险二金+择优落户+青年公寓",
+    "company": "中信出版集团 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026年国内硕士及以上应届毕业生",
+      "影视编导、数字媒体等相关专业优先",
+      "具备视频策划、拍摄和后期制作能力",
+      "璞玉计划：首年轮岗，3年成为业务骨干"
+    ],
+    "apply": "中信出版集团官方招聘渠道投递",
+    "deadline": "关注官网公告",
+    "url": "https://job.citic.com/recruit",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中信出版集团 - 内容运营/媒体运营（校招）",
+    "salary": "国企薪酬+六险二金+择优落户+青年公寓",
+    "company": "中信出版集团 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026年国内硕士及以上应届毕业生",
+      "新闻传播学、市场营销等相关专业",
+      "具备新媒体运营能力和数据分析能力",
+      "璞玉计划：首年轮岗，5年成为业务专家或管理者"
+    ],
+    "apply": "中信出版集团官方招聘渠道投递",
+    "deadline": "关注官网公告",
+    "url": "https://job.citic.com/recruit",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "北京",
+    "title": "中国航空传媒 - 创意设计岗（校招）",
+    "salary": "国企薪酬",
+    "company": "中国航空传媒有限责任公司 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026届高校毕业生",
+      "视觉传达设计、数字媒体艺术等相关专业",
+      "具备较强的创意思维和市场洞察力",
+      "致力于国航品牌的创意、策划、设计、推广和传播"
+    ],
+    "apply": "国航官方招聘网站在线报名",
+    "deadline": "关注官网公告",
+    "url": "https://et.airchina.com.cn/cn/about_us/recruitment/ground_crew_info/184737.shtml",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,高薪",
+    "city": "上海",
+    "title": "米哈游 - 美术/表现类设计师（校招）",
+    "salary": "年包约25-35W（16+薪，六险二金）",
+    "company": "米哈游 miHoYo | 上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届本科及以上应届毕业生",
+      "美术设计类专业，作品集必须",
+      "精通相关设计软件",
+      "对游戏美术有深度理解和项目实践",
+      "每年两次薪资回顾机会（4月/10月）"
+    ],
+    "apply": "米哈游校招官网 jobs.mihoyo.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://jobs.mihoyo.com/#/campus/position",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,大厂,应届友好",
+    "city": "上海",
+    "title": "米哈游 - 发行运营类（校招）",
+    "salary": "年包约25-35W（16+薪）",
+    "company": "米哈游 miHoYo | 上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届本科及以上应届毕业生",
+      "不限制专业，对游戏行业有热情",
+      "优秀的文字功底和沟通能力",
+      "有新媒体运营或社区管理经验优先"
+    ],
+    "apply": "米哈游校招官网 jobs.mihoyo.com 投递",
+    "deadline": "春招进行中",
+    "url": "https://jobs.mihoyo.com/#/campus/position",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,高薪",
+    "city": "上海",
+    "title": "叠纸游戏 - 美术表现类（校招）",
+    "salary": "有竞争力薪资+专属培养课程+1对1导师",
+    "company": "叠纸游戏 Papergames | 上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届本科及以上毕业生",
+      "美术设计类专业",
+      "极强的作品集质量",
+      "对特定垂直领域有深度专业能力",
+      "公司累计注册用户近4亿"
+    ],
+    "apply": "叠纸校招官网 career.papegames.com/campus 投递",
+    "deadline": "春招进行中",
+    "url": "https://career.papegames.com/campus",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,高薪",
+    "city": "上海",
+    "title": "鹰角网络 - 美术表现类（校招）",
+    "salary": "固定16薪+年终奖+房补+交通补贴+免费三餐",
+    "company": "鹰角网络 Hypergryph | 上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届应届毕业生（毕业时间2025.9-2026.8）",
+      "数字媒体艺术、设计学类、动画、视觉传达设计等专业",
+      "美术设计类需提供作品集",
+      "对游戏美术有热情和理解"
+    ],
+    "apply": "鹰角网络校招官网 career.hypergryph.com 投递",
+    "deadline": "春招补录进行中",
+    "url": "https://career.hypergryph.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,大厂,高薪",
+    "city": "上海",
+    "title": "莉莉丝游戏 - 3D角色/场景概念设计（校招）",
+    "salary": "有竞争力薪资（参考行业16薪+奖金）",
+    "company": "莉莉丝游戏 Lilith | 上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届本科及以上毕业生",
+      "美术设计类专业，对作品集质量要求极高",
+      "风格偏向写实或都市模拟",
+      "熟练使用相关3D设计软件"
+    ],
+    "apply": "莉莉丝官方招聘平台投递",
+    "deadline": "春招进行中",
+    "url": "https://jobs.lilith.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,应届友好",
+    "city": "杭州",
+    "title": "华策影视 - 国际视频内容运营（校招）",
+    "salary": "面议（影视行业上市公司）",
+    "company": "华策影视 | 杭州/北京/上海",
+    "recruit": "校招",
+    "requirements": [
+      "2026届/2027届毕业生",
+      "优秀的英语或小语种能力",
+      "懂海外社交媒体玩法",
+      "4大职类：内容创意、国际拓展、品牌营销、职能中台"
+    ],
+    "apply": "发送简历至 campus@huace.tv",
+    "deadline": "持续开放",
+    "url": "https://www.huacemedia.com/mobile/index.php/about/apply/15.html",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "edit",
+    "tags": "校招,应届友好",
+    "city": "北京",
+    "title": "光线传媒 - 剪辑助理（动画电影方向·校招）",
+    "salary": "面议",
+    "company": "光线传媒 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "统招本科及以上学历",
+      "影视或动画相关专业背景",
+      "熟练操作Avid/Premiere/Final Cut Pro等剪辑软件",
+      "对动画电影充满热情",
+      "有项目经验优先"
+    ],
+    "apply": "光线传媒官方招聘页面投递",
+    "deadline": "持续开放",
+    "url": "https://m.ewang.com/hr/recruit/list",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "校招,应届友好",
+    "city": "北京",
+    "title": "光线传媒 - 衍生品设计师（校招）",
+    "salary": "面议",
+    "company": "光线传媒 | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "统招本科及以上学历",
+      "热爱版权周边和衍生品行业",
+      "审美能力强，掌握平面设计软件",
+      "参与前期企划、设计图库、产品开发",
+      "了解IP衍生产品市场"
+    ],
+    "apply": "光线传媒官方招聘页面投递",
+    "deadline": "持续开放",
+    "url": "https://m.ewang.com/hr/recruit/list",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,应届友好",
+    "city": "北京",
+    "title": "蓝色光标 - 文案/创意/视觉创意（校招）",
+    "salary": "行业内具有竞争力薪酬+五险一金",
+    "company": "蓝色光标 BlueFocus | 北京",
+    "recruit": "校招",
+    "requirements": [
+      "2026届应届毕业生",
+      "广告、传播、设计等相关专业",
+      "具备文案撰写和创意能力",
+      "AI²战略下70%以上客户已使用AIGC服务",
+      "丰富职业晋升渠道和系统培训机制"
+    ],
+    "apply": "蓝色光标校招平台投递",
+    "deadline": "关注官方公告",
+    "url": "https://app.mokahr.com/campus-recruitment/bluefocushr/41530",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,应届友好",
+    "city": "广州",
+    "title": "省广集团 - 营销策划/创意策略（校招）",
+    "salary": "国企薪酬+五险一金+企业年金",
+    "company": "省广集团 | 广州",
+    "recruit": "校招",
+    "requirements": [
+      "2026届应届毕业生",
+      "广告、传播、市场营销等相关专业",
+      "具备创意思维和策划能力",
+      "中国最早成立广告公司之一，A股上市"
+    ],
+    "apply": "关注微信公众号\"省广集团招聘\"投递校招岗位",
+    "deadline": "关注官方公告",
+    "url": "https://www.shushuqiuzhi.com/article/151575",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,应届友好",
+    "city": "北京",
+    "title": "无忧传媒 - 直播运营/短视频运营/编导（校招）",
+    "salary": "面议",
+    "company": "无忧传媒 | 北京/上海/杭州",
+    "recruit": "校招",
+    "requirements": [
+      "本科及以上学历应届毕业生",
+      "8大岗位方向：直播运营、编导、短视频运营、摄像后期等",
+      "有运营抖音/快手/视频号等平台经验者优先",
+      "具备创意策划能力"
+    ],
+    "apply": "无忧传媒官方招聘渠道投递",
+    "deadline": "关注官方公告",
+    "url": "https://www.zhipin.com/zhaopin/af6bd3437d704a4233R92dW9/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "operate",
+    "tags": "校招,应届友好",
+    "city": "杭州",
+    "title": "遥望科技 - 短视频编导/运营（校招）",
+    "salary": "底薪+项目奖金+月度奖金+年终奖",
+    "company": "遥望科技 | 杭州",
+    "recruit": "校招",
+    "requirements": [
+      "统招本科学历",
+      "传媒、编导、市场营销等相关专业",
+      "对短视频和直播电商有热情",
+      "A股上市公司，覆盖抖音/快手/淘宝/视频号全平台"
+    ],
+    "apply": "遥望科技官方招聘渠道或猎聘投递",
+    "deadline": "持续招聘",
+    "url": "https://m.liepin.com/company/8633115/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "news",
+    "tags": "校招,央媒/国企,应届友好",
+    "city": "广州",
+    "title": "南方财经全媒体集团 - 内容生产/策划运营（校招）",
+    "salary": "国企薪酬体系",
+    "company": "南方财经全媒体集团 | 广州",
+    "recruit": "校招",
+    "requirements": [
+      "2026年应届高校毕业生",
+      "新闻传播学、经济学、金融等相关专业",
+      "具备良好的文字表达和新闻素养",
+      "本科及以上学历"
+    ],
+    "apply": "登录 campus.sfccn.com 在线投递",
+    "deadline": "关注官网公告",
+    "url": "https://campus.sfccn.com/",
+    "extraTag": "2026校招"
+  },
+  {
+    "category": "design",
+    "tags": "大厂,AIGC",
+    "city": "北京",
+    "title": "字节跳动 - 创意视觉设计实习生（番茄小说）",
+    "salary": "200-300元/天",
+    "company": "字节跳动 | 北京/深圳",
+    "recruit": "实习",
+    "requirements": [
+      "2027届及以后本科/硕士在校生",
+      "设计相关专业，熟练使用PS、AI、Figma等",
+      "对AIGC工具有了解和使用经验者优先",
+      "每周至少出勤4天，实习3个月以上",
+      "需提交个人设计作品集"
+    ],
+    "apply": "字节跳动校招官网投递",
+    "deadline": "招满即止",
+    "url": "https://jobs.bytedance.com/campus",
+    "extraTag": "实习"
+  },
+  {
+    "category": "design",
+    "tags": "大厂",
+    "city": "深圳",
+    "title": "腾讯 - 视觉设计实习生",
+    "salary": "150-250元/天",
+    "company": "腾讯 | 深圳/北京/上海",
+    "recruit": "实习",
+    "requirements": [
+      "2027届及以后在校大学生",
+      "设计相关专业本科及以上",
+      "熟练掌握PS、AI、Figma、Sketch等设计工具",
+      "具备良好的审美能力和设计表达能力",
+      "需提交作品集"
+    ],
+    "apply": "腾讯校招官网 join.qq.com 投递",
+    "deadline": "2026年5月15日",
+    "url": "https://join.qq.com/post.html?query=p_2",
+    "extraTag": "实习"
+  },
+  {
+    "category": "operate",
+    "tags": "大厂",
+    "city": "深圳",
+    "title": "腾讯 - 内容运营实习生",
+    "salary": "150-200元/天",
+    "company": "腾讯 | 深圳/北京",
+    "recruit": "实习",
+    "requirements": [
+      "2027届及以后在校大学生",
+      "传媒、中文、新闻等相关专业优先",
+      "对互联网内容生态有深入了解",
+      "具备优秀的文字功底和内容策划能力",
+      "每周出勤4天以上，实习3个月以上"
+    ],
+    "apply": "腾讯校招官网 join.qq.com 投递",
+    "deadline": "2026年5月15日",
+    "url": "https://join.qq.com/post.html?query=p_2",
+    "extraTag": "实习"
+  },
+  {
+    "category": "design",
+    "tags": "大厂",
+    "city": "上海",
+    "title": "小红书 - 视觉设计师实习生",
+    "salary": "竞争力薪酬+餐补+租房补贴",
+    "company": "小红书 | 上海",
+    "recruit": "实习",
+    "requirements": [
+      "本科及以上在校生，艺术设计相关专业优先",
+      "扎实的美术功底和良好审美",
+      "熟练掌握PS、AI、AE等设计软件",
+      "掌握AIGC相关设计工具者优先",
+      "投递须提交完整设计作品集"
+    ],
+    "apply": "小红书校招官网 job.xiaohongshu.com 投递",
+    "deadline": "招满即止",
+    "url": "https://job.xiaohongshu.com/intern",
+    "extraTag": "实习"
+  },
+  {
+    "category": "operate",
+    "tags": "大厂",
+    "city": "上海",
+    "title": "小红书 - 内容运营实习生",
+    "salary": "竞争力薪酬+免费三餐+租房补贴",
+    "company": "小红书 | 上海/北京",
+    "recruit": "实习",
+    "requirements": [
+      "2026届及以后本硕博在校生",
+      "对小红书平台内容生态有深入了解",
+      "具备优秀的内容判断力和策划能力",
+      "传媒、新闻、中文等相关专业优先",
+      "每周至少4天，实习不少于3个月"
+    ],
+    "apply": "小红书校招官网或微信搜索\"小红书招聘\"小程序投递",
+    "deadline": "招满即止",
+    "url": "https://job.xiaohongshu.com/intern",
+    "extraTag": "实习"
+  },
+  {
+    "category": "design",
+    "tags": "大厂,二次元",
+    "city": "上海",
+    "title": "哔哩哔哩 - 视觉设计实习生",
+    "salary": "5000-7000元/月",
+    "company": "哔哩哔哩 | 上海",
+    "recruit": "实习",
+    "requirements": [
+      "2027届及以后在校生",
+      "设计相关专业，具备良好审美和视觉表现能力",
+      "熟练使用PS、AI、Figma等设计软件",
+      "对B站社区文化和二次元有了解",
+      "每周出勤4天以上，实习不少于3个月"
+    ],
+    "apply": "B站校招官网 jobs.bilibili.com/campus 投递",
+    "deadline": "2026年5月10日",
+    "url": "https://jobs.bilibili.com/campus/",
+    "extraTag": "实习"
+  },
+  {
+    "category": "operate",
+    "tags": "大厂,二次元",
+    "city": "上海",
+    "title": "哔哩哔哩 - PUGV内容运营实习生",
+    "salary": "5000-7000元/月",
+    "company": "哔哩哔哩 | 上海",
+    "recruit": "实习",
+    "requirements": [
+      "2027届及以后在校生",
+      "对B站UP主生态有深入了解和热情",
+      "具备内容判断力和数据分析能力",
+      "传媒、新闻、中文等相关专业优先",
+      "每周出勤4天以上，实习不少于3个月"
+    ],
+    "apply": "B站校招官网 jobs.bilibili.com/campus 投递",
+    "deadline": "2026年5月10日",
+    "url": "https://jobs.bilibili.com/campus/",
+    "extraTag": "实习"
+  },
+  {
+    "category": "design",
+    "tags": "大厂,游戏",
+    "city": "杭州",
+    "title": "网易游戏 - GUI设计/视觉设计实习生",
+    "salary": "200-300元/天",
+    "company": "网易游戏（雷火） | 杭州",
+    "recruit": "实习",
+    "requirements": [
+      "在校生，连续实习6个月及以上",
+      "熟悉视觉设计理论，较强手绘造型功底",
+      "掌握PS、AI等设计软件",
+      "以用户为中心的设计思路",
+      "每周至少4天"
+    ],
+    "apply": "网易游戏雷火校招官网投递",
+    "deadline": "招满即止",
+    "url": "https://campus.163.com/",
+    "extraTag": "实习"
+  },
+  {
+    "category": "design",
+    "tags": "大厂,游戏",
+    "city": "广州",
+    "title": "网易游戏 - 角色原画/场景原画实习生",
+    "salary": "200-300元/天",
+    "company": "网易游戏（互娱） | 广州",
+    "recruit": "实习",
+    "requirements": [
+      "美术/设计相关专业在校生",
+      "扎实的绘画功底及良好审美",
+      "了解游戏美术风格，能独立完成原画设计",
+      "熟练使用PS、SAI等绘画软件",
+      "需提交个人原画作品集"
+    ],
+    "apply": "网易游戏互娱校招官网投递",
+    "deadline": "招满即止",
+    "url": "https://campus.163.com/",
+    "extraTag": "实习"
+  },
+  {
+    "category": "design",
+    "tags": "大厂,游戏,二次元",
+    "city": "上海",
+    "title": "米哈游 - 美术表现类实习生（原画/UI/概念设计）",
+    "salary": "丰厚实习薪资（具体面议）",
+    "company": "米哈游 | 上海",
+    "recruit": "实习",
+    "requirements": [
+      "2026年9月及以后毕业在校生",
+      "美术设计类专业，不限年级和实习经验",
+      "扎实的美术功底和优秀的审美能力",
+      "热爱游戏和二次元文化",
+      "需提交美术作品集"
+    ],
+    "apply": "米哈游校招官网 jobs.mihoyo.com 投递",
+    "deadline": "全年开放",
+    "url": "https://jobs.mihoyo.com/",
+    "extraTag": "实习"
+  },
+  {
+    "category": "operate",
+    "tags": "大厂",
+    "city": "北京",
+    "title": "字节跳动 - 内容运营实习生（抖音）",
+    "salary": "200-300元/天",
+    "company": "字节跳动（抖音） | 北京/上海",
+    "recruit": "实习",
+    "requirements": [
+      "本科及以上在校生，传媒/新闻等专业优先",
+      "有短视频运营实习经验优先",
+      "能够熟练使用视频编辑软件者优先",
+      "每周4天及以上，至少实习三个月"
+    ],
+    "apply": "字节跳动校招官网投递",
+    "deadline": "招满即止",
+    "url": "https://jobs.bytedance.com/campus",
+    "extraTag": "实习"
+  },
+  {
+    "category": "space",
+    "tags": "艺术,文化",
+    "city": "北京",
+    "title": "UCCA尤伦斯当代艺术中心 - 策展助理实习生",
+    "salary": "面议",
+    "company": "UCCA尤伦斯当代艺术中心 | 北京",
+    "recruit": "实习",
+    "requirements": [
+      "艺术史、纯艺术或人文社科相关专业在读",
+      "流畅的中英文写作和口语能力",
+      "对当代艺术有浓厚兴趣和基本了解",
+      "一周至少四个工作日全天工作",
+      "实习期不少于3个月"
+    ],
+    "apply": "UCCA官网careers页面投递",
+    "deadline": "招满即止",
+    "url": "https://ucca.org.cn/en/careers/",
+    "extraTag": "实习"
+  },
+  {
+    "category": "news",
+    "tags": "广告,4A",
+    "city": "上海",
+    "title": "奥美中国 - 文案实习生",
+    "salary": "50元/天",
+    "company": "奥美中国 | 上海",
+    "recruit": "实习",
+    "requirements": [
+      "头脑清晰，有较好的逻辑思维和文案撰写能力",
+      "喜爱阅读，勤奋",
+      "广告、传媒、中文等相关专业优先",
+      "每周至少4天，实习3个月以上"
+    ],
+    "apply": "广告门或奥美官网投递",
+    "deadline": "招满即止",
+    "url": "https://www.ogilvy.com/cn/eng/careers",
+    "extraTag": "实习"
+  },
+  {
+    "category": "design",
+    "tags": "广告,4A",
+    "city": "上海",
+    "title": "奥美中国 - 美术设计实习生",
+    "salary": "100-150元/天",
+    "company": "奥美中国 | 上海",
+    "recruit": "实习",
+    "requirements": [
+      "设计/美术相关专业在校生",
+      "熟练操作PS、CDR、AI等平面设计软件",
+      "参与全方位广告设计创意支持",
+      "有品牌设计或广告设计作品优先",
+      "每周至少4天"
+    ],
+    "apply": "奥美官网careers页面或BOSS直聘投递",
+    "deadline": "招满即止",
+    "url": "https://www.ogilvy.com/cn/eng/careers",
+    "extraTag": "实习"
+  },
+  {
+    "category": "operate",
+    "tags": "广告,营销",
+    "city": "北京",
+    "title": "蓝色光标 - 创意策划实习生",
+    "salary": "100-200元/天",
+    "company": "蓝色光标 | 北京",
+    "recruit": "实习",
+    "requirements": [
+      "广告学、传播学、市场营销等相关专业在校生",
+      "对数字营销和社交媒体有浓厚兴趣",
+      "具备良好的创意思维和文案能力",
+      "每周至少4天，实习期不少于3个月"
+    ],
+    "apply": "蓝色光标飞书招聘平台投递",
+    "deadline": "招满即止",
+    "url": "https://app.mokahr.com/campus-recruitment/bluefocushr/41530",
+    "extraTag": "实习"
+  },
+  {
+    "category": "edit",
+    "tags": "综艺,影视",
+    "city": "长沙",
+    "title": "芒果TV - 后期剪辑实习生",
+    "salary": "面议",
+    "company": "芒果TV | 长沙",
+    "recruit": "实习",
+    "requirements": [
+      "编导、数字媒体、影视后期等相关专业在校生",
+      "有后期制作经验，熟练掌握Pr、Ps等软件",
+      "负责现场收发卡，参与后期剪辑与包装",
+      "能适应高强度的综艺制作节奏"
+    ],
+    "apply": "芒果TV招聘官网 hr.mgtv.com 投递",
+    "deadline": "招满即止",
+    "url": "https://hr.mgtv.com/",
+    "extraTag": "实习"
+  },
+  {
+    "category": "edit",
+    "tags": "影视,平台",
+    "city": "北京",
+    "title": "爱奇艺 - 综艺编导/视频剪辑实习生",
+    "salary": "150-200元/天",
+    "company": "爱奇艺 | 北京",
+    "recruit": "实习",
+    "requirements": [
+      "广播电视编导、新闻传播、影视制作等相关专业在校生",
+      "掌握基本剪辑技巧，熟悉Pr/Final Cut Pro/剪映",
+      "熟悉抖音、小红书等平台视频风格",
+      "每周4天以上，实习3个月以上"
+    ],
+    "apply": "爱奇艺校招官网 campus.iqiyi.com 投递",
+    "deadline": "招满即止",
+    "url": "https://campus.iqiyi.com/",
+    "extraTag": "实习"
+  },
+  {
+    "category": "space",
+    "tags": "文博,文化",
+    "city": "北京",
+    "title": "故宫博物院 - 文物保护设计实习",
+    "salary": "面议",
+    "company": "故宫博物院（文化遗产保护公司） | 北京",
+    "recruit": "实习",
+    "requirements": [
+      "文物保护、艺术设计、新媒体等相关专业在校生",
+      "对中国传统文化有浓厚兴趣",
+      "具备基本的设计软件操作能力",
+      "良好的文字功底和内容创作能力"
+    ],
+    "apply": "故宫博物院官网 dpm.org.cn 投递",
+    "deadline": "以官网公告为准",
+    "url": "https://www.dpm.org.cn/classify_detail/369656.html",
+    "extraTag": "实习"
+  },
+  {
+    "category": "operate",
+    "tags": "大厂,武汉",
+    "city": "武汉",
+    "title": "字节跳动 - 新媒体运营实习生（武汉）",
+    "salary": "200元/天",
+    "company": "字节跳动 | 武汉",
+    "recruit": "实习",
+    "requirements": [
+      "本科及以上在校生，传媒/新闻/中文等专业优先",
+      "熟练掌握视频及图片编辑软件(PS、PR、剪映等)",
+      "对抖音等短视频平台有深入了解",
+      "每周4天以上，实习3个月以上"
+    ],
+    "apply": "字节跳动校招官网投递",
+    "deadline": "招满即止",
+    "url": "https://jobs.bytedance.com/campus",
+    "extraTag": "实习"
   }
 ]

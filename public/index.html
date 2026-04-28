@@ -129,6 +129,7 @@
         .tag-urgent { background: #fee2e2; color: #dc2626; }
         .tag-recruit-campus { background: #fce7f3; color: #db2777; font-weight: 600; }
         .tag-recruit-social { background: #e0f2fe; color: #0369a1; font-weight: 600; }
+        .tag-recruit-intern { background: #f0fdf4; color: #15803d; font-weight: 600; }
 
         .job-req { margin-bottom: 10px; }
         .job-req-title { font-size: 12px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
@@ -255,13 +256,19 @@
 
 <div class="filter-bar">
     <div class="filter-group">
+        <span class="filter-label">类型：</span>
+        <button class="filter-btn recruit-btn active" data-recruit="all">不限</button>
+        <button class="filter-btn recruit-btn" data-recruit="校招">校招</button>
+        <button class="filter-btn recruit-btn" data-recruit="实习">实习</button>
+        <button class="filter-btn recruit-btn" data-recruit="社招">社招</button>
+    </div>
+    <div class="filter-group">
         <span class="filter-label">标签：</span>
-        <button class="filter-btn active" data-filter="all">不限</button>
-        <button class="filter-btn" data-filter="应届友好">应届友好</button>
-        <button class="filter-btn" data-filter="校招">校招岗位</button>
-        <button class="filter-btn" data-filter="央媒/国企">央媒/国企</button>
-        <button class="filter-btn" data-filter="大厂">互联网大厂</button>
-        <button class="filter-btn" data-filter="高薪">高薪优先</button>
+        <button class="filter-btn tag-filter active" data-filter="all">不限</button>
+        <button class="filter-btn tag-filter" data-filter="应届友好">应届友好</button>
+        <button class="filter-btn tag-filter" data-filter="央媒/国企">央媒/国企</button>
+        <button class="filter-btn tag-filter" data-filter="大厂">互联网大厂</button>
+        <button class="filter-btn tag-filter" data-filter="高薪">高薪优先</button>
     </div>
     <div class="filter-group">
         <span class="filter-label">城市：</span>
@@ -319,7 +326,7 @@
 <button class="scroll-top" id="scrollTop">&#8593;</button>
 
 <script>
-const state = { category: 'all', filter: 'all', city: 'all' };
+const state = { category: 'all', filter: 'all', city: 'all', recruit: 'all' };
 let allJobs = [];
 let lastUpdatedAt = '';
 const mainCities = ['北京','上海','深圳','广州','杭州','武汉','成都','长沙'];
@@ -332,7 +339,7 @@ function escapeHTML(s) {
 }
 
 function renderCard(job, index) {
-    const recruitClass = job.recruit === '校招' ? 'tag-recruit-campus' : 'tag-recruit-social';
+    const recruitClass = job.recruit === '校招' ? 'tag-recruit-campus' : job.recruit === '实习' ? 'tag-recruit-intern' : 'tag-recruit-social';
     const typeLabel = categoryLabels[job.category] || '';
     const salaryClass = job.salary.includes('K') && parseInt(job.salary) >= 15 ? 'tag-urgent' : 'tag-new';
 
@@ -375,16 +382,17 @@ function filterAndRender() {
 
     allJobs.forEach(job => {
         const mCat = state.category === 'all' || job.category === state.category;
+        const mRecruit = state.recruit === 'all' || job.recruit === state.recruit;
         const mFilter = state.filter === 'all' || (job.tags && job.tags.includes(state.filter));
         let mCity = true;
         if (state.city !== 'all') {
             mCity = state.city === '其他' ? !mainCities.includes(job.city) : job.city === state.city;
         }
-        if (mFilter && mCity) {
+        if (mRecruit && mFilter && mCity) {
             counts.all++;
             if (counts[job.category] !== undefined) counts[job.category]++;
         }
-        if (mCat && mFilter && mCity) visibleJobs.push(job);
+        if (mCat && mRecruit && mFilter && mCity) visibleJobs.push(job);
     });
 
     grid.innerHTML = visibleJobs.map((job, i) => renderCard(job, i)).join('');
@@ -398,6 +406,7 @@ function filterAndRender() {
     document.getElementById('emptyState').classList.toggle('visible', visibleJobs.length === 0);
 
     const parts = [];
+    if (state.recruit !== 'all') parts.push(state.recruit);
     if (state.city !== 'all') parts.push(state.city);
     if (state.filter !== 'all') parts.push(state.filter);
     document.getElementById('filterDesc').textContent = parts.length ? '筛选：' + parts.join(' / ') : '';
@@ -410,8 +419,14 @@ function bindFilters() {
         state.category = t.dataset.category;
         filterAndRender();
     }));
-    document.querySelectorAll('.filter-btn:not(.city-btn)').forEach(b => b.addEventListener('click', () => {
-        document.querySelectorAll('.filter-btn:not(.city-btn)').forEach(x => x.classList.remove('active'));
+    document.querySelectorAll('.recruit-btn').forEach(b => b.addEventListener('click', () => {
+        document.querySelectorAll('.recruit-btn').forEach(x => x.classList.remove('active'));
+        b.classList.add('active');
+        state.recruit = b.dataset.recruit;
+        filterAndRender();
+    }));
+    document.querySelectorAll('.tag-filter').forEach(b => b.addEventListener('click', () => {
+        document.querySelectorAll('.tag-filter').forEach(x => x.classList.remove('active'));
         b.classList.add('active');
         state.filter = b.dataset.filter;
         filterAndRender();

@@ -151,30 +151,43 @@ async function fetchZCOOLDetail(id) {
   };
 }
 
-async function validateBuiltinJobs(jobs) {
-  const results = await Promise.allSettled(
-    jobs.map(async (job) => {
-      if (!job.url) return null;
-      try {
-        const res = await fetchWithTimeout(job.url, {
-          headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
-        }, 8000);
-        if (!res) return job;
-        if (res.status === 404 || res.status === 410) return null;
-        const html = await res.text();
-        if (/该职位已过期|该岗位已关闭/.test(html)) return null;
-        return job;
-      } catch {
-        return job;
-      }
-    })
-  );
+const BROWSER_HEADERS = {
+  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
+};
+const EXPIRED_RE = /该职位已过期|该岗位已关闭|已过期|已结束|页面不存在|404 Not Found/;
 
-  const valid = results
-    .filter(r => r.status === 'fulfilled' && r.value)
-    .map(r => r.value);
+async function checkOneUrl(url) {
+  const res = await fetchWithTimeout(url, { headers: BROWSER_HEADERS }, 6000);
+  if (!res) return 'timeout';
+  if (res.status === 404 || res.status === 410) return 'dead';
+  const html = await res.text();
+  if (EXPIRED_RE.test(html)) return 'dead';
+  return 'ok';
+}
 
-  return valid.length >= jobs.length / 2 ? valid : jobs;
+async function validateAllJobs(jobs) {
+  const BATCH = 20;
+  const kept = [];
+
+  for (let i = 0; i < jobs.length; i += BATCH) {
+    const batch = jobs.slice(i, i + BATCH);
+    const results = await Promise.allSettled(
+      batch.map(async (job) => {
+        if (!job.url) return { job, status: 'ok' };
+        const first = await checkOneUrl(job.url);
+        if (first === 'ok') return { job, status: 'ok' };
+        if (first === 'dead') return { job, status: 'dead' };
+        const retry = await checkOneUrl(job.url);
+        return { job, status: retry };
+      })
+    );
+    for (const r of results) {
+      if (r.status !== 'fulfilled') continue;
+      if (r.value.status !== 'dead') kept.push(r.value.job);
+    }
+  }
+
+  return kept.length >= jobs.length / 2 ? kept : jobs;
 }
 
 function mergeJobs(scraped, builtin) {
@@ -184,8 +197,8 @@ function mergeJobs(scraped, builtin) {
 
 async function scrapeAll() {
   const zcoolJobs = await scrapeZCOOL();
-  const validBuiltin = await validateBuiltinJobs(builtinJobs());
-  return mergeJobs(zcoolJobs, validBuiltin);
+  const merged = mergeJobs(zcoolJobs, builtinJobs());
+  return validateAllJobs(merged);
 }
 
 // ---------- API Handler ----------
