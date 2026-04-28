@@ -81,17 +81,25 @@
 
         .filter-bar {
             max-width: 1320px; margin: 16px auto 0; padding: 0 24px;
-            display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+            display: flex; flex-direction: column; gap: 0;
+            background: white; border-radius: 12px; border: 1px solid var(--border);
+            overflow: hidden;
         }
-        .filter-group { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-        .filter-group + .filter-group { margin-left: 8px; padding-left: 16px; border-left: 1px solid var(--border); }
-        .filter-label { font-size: 13px; font-weight: 600; color: var(--text); }
+        .filter-group {
+            display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+            padding: 10px 16px;
+        }
+        .filter-group + .filter-group { border-top: 1px solid var(--border); }
+        .filter-label {
+            font-size: 13px; font-weight: 600; color: var(--text);
+            min-width: 42px; flex-shrink: 0;
+        }
         .filter-btn {
             padding: 5px 14px; border-radius: 18px; border: 1px solid var(--border);
-            background: white; font-size: 12px; color: var(--text-secondary);
+            background: var(--bg); font-size: 12px; color: var(--text-secondary);
             cursor: pointer; transition: all 0.2s;
         }
-        .filter-btn:hover { border-color: var(--primary); color: var(--primary); }
+        .filter-btn:hover { border-color: var(--primary); color: var(--primary); background: var(--primary-light); }
         .filter-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
 
         .main { max-width: 1320px; margin: 0 auto; padding: 16px 24px 60px; }
@@ -215,7 +223,9 @@
             .header-top { padding: 10px 16px; }
             .logo h1 { font-size: 18px; }
             .nav-tab { padding: 12px 14px; font-size: 13px; }
-            .filter-group + .filter-group { margin-left: 0; padding-left: 0; border-left: none; }
+            .filter-bar { margin: 12px 16px 0; }
+            .filter-group { padding: 8px 12px; }
+            .filter-btn { padding: 4px 10px; font-size: 11px; }
             .main { padding: 12px 16px 40px; }
         }
     </style>
