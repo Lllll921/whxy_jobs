@@ -16,7 +16,7 @@ http.createServer((req, res) => {
   if (!fs.existsSync(filePath)) { res.writeHead(404); res.end('Not found'); return; }
 
   const ext = path.extname(filePath);
-  const types = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript' };
+  const types = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.svg': 'image/svg+xml' };
   res.setHeader('Content-Type', (types[ext] || 'application/octet-stream') + '; charset=utf-8');
   res.end(fs.readFileSync(filePath));
 }).listen(PORT, () => console.log(`Local preview: http://localhost:${PORT}`));
